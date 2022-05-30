@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_cardviewbackground.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-ldpi\\cardviewbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_background_otp.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-hdpi\\background_otp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_item_send.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\item_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_message.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_circular.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-v24\\circular.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_otpactivity.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_otpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fb_wow.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_fb_wow.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_call.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-v24\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_illustration.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\illustration.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_item_receive.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\item_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_sending.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\custom_sending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_cardviewbackground.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-hdpi\\cardviewbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_textbox_design.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\textbox_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_background_otp.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xxxhdpi\\background_otp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_cardview_background.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\cardview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fb_sad.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_fb_sad.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_row_conversation.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\row_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_left_arrow.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\left_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_account.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\font_moderna.ttf.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\font\\moderna.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_navigation_background.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\navigation_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fb_angry.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_fb_angry.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_background.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_phone_number.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_attachment.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_attachment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_dial.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\custom_dial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_calls.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fb_love.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_fb_love.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_background_otp.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xxhdpi\\background_otp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle_green.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_img.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xxhdpi\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_cardviewbackground.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-mdpi\\cardviewbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_sent_drawable.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\sent_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fb_laugh.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_fb_laugh.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_contact_list.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_receive_drawable.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\receive_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_background_otp.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xhdpi\\background_otp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_cardviewbackground.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xhdpi\\cardviewbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fb_like.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\ic_fb_like.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile_setup.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_profile_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_status.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\status.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_demo_layout.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\demo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\font_seogue.TTF.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\font\\seogue.TTF"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background_otp.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-mdpi\\background_otp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_cardviewbackground.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xxxhdpi\\cardviewbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable_new_chat.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable\\new_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_status.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_cardviewbackground.png.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\drawable-xxhdpi\\cardviewbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\merged_res\\debug\\menu_topmenu.xml.flat",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\menu\\topmenu.xml"
+    }
+]

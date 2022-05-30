@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_otp"
+    tools:context=".Activities.PhoneNumberActivity"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mobile_number_verification"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="30dp"
+        android:fontFamily="@font/seogue"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center_horizontal"
+        >
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="350dp"
+            android:layout_height="500dp"
+            android:layout_marginTop="140dp"
+
+            app:cardCornerRadius="20dp"
+
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/cardviewbackground"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="15dp"
+                android:orientation="vertical"
+
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/personal_information"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/seogue"
+                   android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/white"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:textColor="#ECECEC"
+                    android:fontFamily="@font/seogue"
+                    android:layout_marginTop="40dp"
+                    android:gravity="center"
+                    android:text="@string/we_will_send_you_a_verification_code_to_your_phone_number"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/india_91"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/seogue"
+                    android:textColor="@color/white"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="40dp"
+                    android:textSize="18sp"
+                    />
+                <EditText
+                    android:id="@+id/phonebox"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:textColor="@color/white"
+                    android:maxLength="10"
+                    android:inputType="phone"
+                    android:hint="@string/type_your_number"
+                    android:textColorHint="#ECE8E8"
+                    android:gravity="center"
+
+                    />
+
+
+
+                <Button
+                    android:id="@+id/getOTPButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:text="@string/continueText"
+                    android:textStyle="bold"
+                    android:background="@drawable/circular"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="120dp"
+                    />
+
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/messages"
+        android:icon="@drawable/message"
+
+
+        android:title="Messages" />
+    <item
+        android:id="@+id/status"
+        android:icon="@drawable/status"
+
+
+        android:title="Status"
+
+
+        />
+    <item
+        android:id="@+id/calls"
+        android:icon="@drawable/call"
+
+
+        android:title="Calls" />
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/account"
+
+
+        android:title="Account" />
+</menu>

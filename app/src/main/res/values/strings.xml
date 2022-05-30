@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chaps</string>
+    <string name="verify_proceed"><![CDATA[Verify & Proceed]]></string>
+    <string name="we_will_send_you_a_verification_code_to_your_phone_number">We will send you a verification code to your phone number</string>
+    <string name="personal_information"><![CDATA[Personal Information >]]></string>
+    <string name="mobile_number_verification">Mobile Number Verification</string>
+    <string name="india_91">India (+91)</string>
+    <string name="type_your_number">Type your number</string>
+    <string name="continueText">Continue</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="background">background</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="please_type_the_verification_code_sent_to_your_mobile_number">Please type the verification code sent to your mobile number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="resend_otp">Resend OTP ?</string>
+    <string name="verify">Verify</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="please_provide_your_name_and_an_optional_profile_photo">Please provide your name and an optional profile photo</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="logout">Logout</string>
+    <string name="time">6:40 P.M</string>
+
+
+</resources>

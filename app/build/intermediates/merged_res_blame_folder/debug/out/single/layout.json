@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_receive.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\item_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_send.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\item_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_calls.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone_number.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_sending.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\custom_sending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_conversation.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\row_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_account.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contact_list.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_otpactivity.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_otpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_dial.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\custom_dial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\demo_layout.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\demo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_status.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile_setup.xml",
+        "source": "C:\\Users\\Chandan Giri\\Music\\Chaps\\app\\src\\main\\res\\layout\\activity_profile_setup.xml"
+    }
+]

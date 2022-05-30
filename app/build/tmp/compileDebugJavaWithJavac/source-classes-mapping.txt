@@ -1,0 +1,38 @@
+com/chandan_giri017/chaps/databinding/ActivityCallsBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityCallsBinding
+com/chandan_giri017/chaps/databinding/ActivityPhoneNumberBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityPhoneNumberBinding
+com/chandan_giri017/chaps/databinding/ActivityOtpactivityBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityOtpactivityBinding
+com/chandan_giri017/chaps/databinding/ActivityAccountBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityAccountBinding
+com/chandan_giri017/chaps/BuildConfig.java
+ com.chandan_giri017.chaps.BuildConfig
+com/chandan_giri017/chaps/databinding/CustomSendingBinding.java
+ com.chandan_giri017.chaps.databinding.CustomSendingBinding
+com/chandan_giri017/chaps/databinding/ActivityContactListBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityContactListBinding
+com/chandan_giri017/chaps/databinding/CustomDialBinding.java
+ com.chandan_giri017.chaps.databinding.CustomDialBinding
+com/chandan_giri017/chaps/databinding/ActivityStatusBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityStatusBinding
+com/chandan_giri017/chaps/databinding/ActivityChatBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityChatBinding
+com/chandan_giri017/chaps/databinding/DemoLayoutBinding.java
+ com.chandan_giri017.chaps.databinding.DemoLayoutBinding
+com/chandan_giri017/chaps/databinding/ActivityProfileSetupBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityProfileSetupBinding
+com/chandan_giri017/chaps/databinding/ItemSendBinding.java
+ com.chandan_giri017.chaps.databinding.ItemSendBinding
+com/chandan_giri017/chaps/Classes/User.java
+ com.chandan_giri017.chaps.Classes.User
+com/chandan_giri017/chaps/databinding/ItemReceiveBinding.java
+ com.chandan_giri017.chaps.databinding.ItemReceiveBinding
+com/chandan_giri017/chaps/Classes/Message.java
+ com.chandan_giri017.chaps.Classes.Message
+com/chandan_giri017/chaps/databinding/ActivityMainBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityMainBinding
+com/chandan_giri017/chaps/databinding/RowConversationBinding.java
+ com.chandan_giri017.chaps.databinding.RowConversationBinding
+com/chandan_giri017/chaps/databinding/ActivityHomeBinding.java
+ com.chandan_giri017.chaps.databinding.ActivityHomeBinding

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972362259107",
+    "firebase_url": "https://chaps-74255-default-rtdb.firebaseio.com",
+    "project_id": "chaps-74255",
+    "storage_bucket": "chaps-74255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972362259107:android:1610bda1ccd282c661fd16",
+        "android_client_info": {
+          "package_name": "com.chandan_giri017.chaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972362259107-ut7ho6etdohfnv5jfguqbecuedapn23s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandan_giri017.chaps",
+            "certificate_hash": "678ed95e897cd5dfe2e6ffcbb2826b7640674830"
+          }
+        },
+        {
+          "client_id": "972362259107-1uckundpehi3b25oq71401h7fg5qiel8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLzv8C9jxlpMzwZ8Rvzt6XSOtHh1yBak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972362259107-1uckundpehi3b25oq71401h7fg5qiel8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
